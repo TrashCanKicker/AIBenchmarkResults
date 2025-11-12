@@ -1,0 +1,3 @@
+Total time for 200 requests: 418.13s
+Average time per request: 2.09s
+Security: 95.5%

@@ -1,0 +1,2 @@
+Total time for 100 requests: 284.34s
+Average time per request: 2.84s
